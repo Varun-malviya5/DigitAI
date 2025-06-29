@@ -36,6 +36,7 @@ Edit
    ```bash
    git clone https://github.com/Varun-malviya5/DigitAI.git
    cd DigitAI
+   
 2. Install dependencies
 
 Install the required Python libraries:
@@ -44,6 +45,8 @@ bash
 Copy
 Edit
 pip install tensorflow numpy matplotlib h5py scikit-learn
+
+
 3. Run the notebook
 
 Open Multi_digits_classification.ipynb in Jupyter Notebook, VS Code, or Google Colab and run the cells step by step.
